@@ -1,1 +1,1 @@
-export PULP_CURRENT_CONFIG=pulpissimo@config_file=chips/stellissimo/stellissimo.json
+export PULP_CURRENT_CONFIG=stellissimo@config_file=chips/stellissimo/stellissimo.json
