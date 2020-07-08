@@ -1,0 +1,613 @@
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools'
+#### Building in /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools
+#### Release type is RelWithDebInfo
+#### Installing to /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws
+( cd /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools ; \
+  cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_INSTALL_PREFIX=/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws \
+	/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools/ )
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools
+( cd /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools ; make all  VERBOSE=0 )
+make[1]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+/usr/bin/cmake -H/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools -B/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles/progress.marks
+make -f CMakeFiles/Makefile2 all
+make[2]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make -f CMakeFiles/json.dir/build.make CMakeFiles/json.dir/depend
+make[3]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+cd /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles/json.dir/DependInfo.cmake --color=
+make[3]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make -f CMakeFiles/json.dir/build.make CMakeFiles/json.dir/build
+make[3]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make[3]: Nothing to be done for 'CMakeFiles/json.dir/build'.
+make[3]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+[100%] Built target json
+make[2]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+/usr/bin/cmake -E cmake_progress_start /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles 0
+make[1]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+( cd /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools ; make install  VERBOSE=0 )
+make[1]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+/usr/bin/cmake -H/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools -B/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles/progress.marks
+make -f CMakeFiles/Makefile2 all
+make[2]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make -f CMakeFiles/json.dir/build.make CMakeFiles/json.dir/depend
+make[3]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+cd /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles/json.dir/DependInfo.cmake --color=
+make[3]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make -f CMakeFiles/json.dir/build.make CMakeFiles/json.dir/build
+make[3]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make[3]: Nothing to be done for 'CMakeFiles/json.dir/build'.
+make[3]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+[100%] Built target json
+make[2]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+/usr/bin/cmake -E cmake_progress_start /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools/CMakeFiles 0
+make -f CMakeFiles/Makefile2 preinstall
+make[2]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make[2]: Nothing to be done for 'preinstall'.
+make[2]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+Install the project...
+/usr/bin/cmake -P cmake_install.cmake
+-- Install configuration: "RelWithDebInfo"
+-- Up-to-date: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/json_tools.py
+-- Up-to-date: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/__init__.py
+-- Up-to-date: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/jsmn.h
+-- Up-to-date: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/json.hpp
+-- Up-to-date: /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/lib/libjson.a
+make[1]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/json-tools'
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/json-tools'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-configs'
+#### Building in /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/pulp-configs
+#### Release type is Debug
+#### Installing to /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws
+scons -Q
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/pulp_chip_common.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/pulp_system_common.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/ai_deck.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapoc_a.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapoc_a_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapoc_a_spi.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapoc_a_spi_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapoc_b.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino_revc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino_spi.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino_spi_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/gapuino_spi_revc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/boards/lucy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa_dual_regfile/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa_dual_regfile/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa_dual_regfile/job_fifo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa_dual_regfile/oprecompkw_sfloat_sa_dual_regfile.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa_dual_regfile/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/arnold/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/arnold/arnold.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/arnold/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/arnold/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/arnold/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp/bigpulp.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-juno/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-juno/bigpulp-juno.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-juno/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-juno/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-standalone/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-standalone/bigpulp.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-standalone/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-standalone/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-z-7045/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-z-7045/bigpulp-z-7045.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-z-7045/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-z-7045/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-zu9eg/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-zu9eg/bigpulp-zu9eg.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-zu9eg/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/bigpulp-zu9eg/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/gap.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/gap8_revc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap8_revc/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/gap9.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/soc_events.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/gap9_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/soc_events.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap9_v2/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/gap_rev1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/gap_rev1/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/hero-z-7045/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/hero-z-7045/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/hero-z-7045/hero-z-7045.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/multino/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/multino/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/multino/multino.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/multino/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/neuraghe/neuraghe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/neuraghe/neuraghe_system.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/neuraghe/soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw/job_fifo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw/oprecompkw.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sa/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sa/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sa/job_fifo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sa/oprecompkw_sa.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sa/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat/job_fifo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat/oprecompkw_sfloat.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa/job_fifo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa/oprecompkw_sfloat_sa.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/oprecompkw_sfloat_sa/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/pulp.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/pulp_16.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/pulp_rnnext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/pulpissimo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/pulpissimo_ibex.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/pulpissimo_rnnext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-microriscy/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-microriscy/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-microriscy/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-microriscy/pulpissimo-microriscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-microriscy/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-riscy/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-riscy/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-riscy/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-riscy/pulpissimo-riscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-riscy/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-zeroriscy/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-zeroriscy/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-zeroriscy/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-zeroriscy/pulpissimo-zeroriscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo-zeroriscy/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo_v1/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo_v1/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo_v1/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo_v1/pulpissimo_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulpissimo_v1/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v1/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v1/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v1/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v1/pulp_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v1/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v2/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v2/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v2/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v2/pulp_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/pulp_v2/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/stellissimo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/stellissimo_ibex.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/stellissimo/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/usoc_v1/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/usoc_v1/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/usoc_v1/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/usoc_v1/usoc_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/soc_events.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vega/vega.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc2/vivosoc2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc2/vivosoc2_system.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc2_1/vivosoc2_1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc2_1/vivosoc2_1_system.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3/vivosoc3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_1/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_1/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_1/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_1/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_1/vivosoc3_1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_5/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_5/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_5/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_5/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc3_5/vivosoc3_5.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc4/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc4/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc4/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc4/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/vivosoc4/vivosoc4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe/wolfe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/apb_soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/defaults.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/pmu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/wolfe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/chips/wolfe_16/wolfe_16.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/ai_deck.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gap.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gap8_revc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gap9_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapoc_a.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapoc_a_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapoc_a_spi_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapoc_b.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapuino.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapuino_revb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gapuino_revc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/gap_rev1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/lucy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulp.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulpissimo.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulpissimo_bitext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulpissimo_ibex.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulpissimo_rnnext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/pulp_16.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/vega.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/config/wolfe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/camera.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/eeprom.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/hyperflash.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/hyperram.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/i2s_microphone.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/jtag_proxy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/lcd_ili9341.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/nina_w10.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spiflash.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spiflash_s26ks512.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spim_verif.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spiram.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/uart_tb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/fpgas/pulp/genesys2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/fpgas/pulpissimo/genesys2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/fpgas/pulpissimo_ibex/genesys2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/fpgas/stellissimo/xilinx_fpga.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/misc/clock.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/adv_dbg_unit/adv_dbg_unit.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_template.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_v3_help.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_v4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/apb_soc/apb_soc_vivosoc3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/archi_host/archi_host_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cache/cache.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v5.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v5_fpu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v5_template.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v6.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster/cluster_v6_template.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/cluster_ctrl/cluster_ctrl_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/debug/pulp_tap.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/debug/riscv_dtm.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/efuse/efuse_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/event_unit/eu_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/event_unit/eu_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/event_unit/eu_v3_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/fll/fll_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/fulmine/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/gpio/gpio_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/gpio/gpio_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/hwacc/hwacc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/hwce/hwce_v4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/hwce/hwce_v5.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/hwme/hwme_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/icache_ctrl/icache_ctrl_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/icache_ctrl/icache_ctrl_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/interco/converter.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/interco/interleaver.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/interco/l1_interleaver.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/interco/l1_tas.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/interco/router.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/itc/itc_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mailbox/mailbox_v0.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mchan/mchan_v4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mchan/mchan_v5.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mchan/mchan_v6.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mchan/mchan_v7.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/memory/ddr.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/mram/mram.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/or1k/or10n_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/padframe/padframe_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/pmu/pmu_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/pmu/pmu_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/pmu/pmu_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/quentin/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/quentin/soc_quentin.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/rab/rab_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ariane.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ibex.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/microriscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v0.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_1_10.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_5_sfloat_single_regfile.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_5_sfloat_single_regfile_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_6_sfloat_single_regfile.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_6_sfloat_single_regfile_rnnext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_6_sfloat_single_regfile_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_a.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_cplx.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_1_10.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_1_10_bitext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_1_10_rnnext.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_a.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_ilp32f.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_fpu_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_sfloat.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_sfloat_single_regfile.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/ri5ky_v2_sfloat_single_regfile_sec.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/riscv/zeroriscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/rom/rom_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/rtc/rtc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/rtc/rtc_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc/soc_v4.2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc/soc_v4.3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc/soc_v4.4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc_eu/soc_eu_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc_eu/soc_eu_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/soc_eu/soc_eu_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/spi_master/spi_master_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/stdout/stdout_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/stdout/stdout_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/timer/timer_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/timer/timer_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/tryx/tryx_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/uart/uart_v0.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/udma/udma_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/udma/udma_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/udma/udma_v3.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/udma/udma_v4.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/udma/i2s/udma_i2s_v2.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vega/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vega/soc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vega/udma.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vendors/dolphin/rtc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vendors/iid/quiddikey_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vendors/lnt/csi2_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/vivosoc3/padframe.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/ips/xne/xne_v1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/camera.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/dpi_wrapper.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/eeprom.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/hyper.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/hyperflash.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/hyperram.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/i2s_microphone.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/jtag_proxy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/ov7670.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/spiflash.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/spim_verif.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/uart_tb.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/periph/olds/microphone.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/board.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/fpga.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/gvsoc.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/netlist.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/pgpin.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/platforms/rtl.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/core/riscy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/core/values/clock_gated.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/core/values/insn.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/core/values/leakage.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/l1.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/idle.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/leakage.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/read_16.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/read_32.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/read_8.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/write_16.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/write_32.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/power_models/l1/values/write_8.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/debug-bridge/cable_ftdi.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/debug-bridge/cable_jtag-proxy.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/debug-bridge/debug_bridge.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/openocd/openocd.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/plt_loader/plt_loader.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/rt/rt.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/runner/runner.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/tools/vp/injector.json' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/camera.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/eeprom.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/hyperflash.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/hyperram.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/i2s_microphone.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/jtag_proxy.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/lcd_ili9341.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/nina_w10.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spiflash.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spim_verif.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/spiram.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/configs/devices/uart_tb.rst' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/plpconfig.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/pulp_config.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/__init__.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/chip_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/cluster_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/comp_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/config_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/soc_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/system_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/top_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/__init__.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/camera_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/eeprom_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/hyper_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/i2s_microphone_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/jtag_proxy_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/lcd_ili9341_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/nina_w10_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/spiflash_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/spiflash_s26ks512_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/spim_verif_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/spiram.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/spiram_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/uart_tb_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/python/generators/v1/devices/__init__.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/comp_gen.py' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/plpconf_new' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/plpfiles' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/plpinfo' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_chip_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_cluster_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_config_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_graph_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_soc_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_system_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_top_gen' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/bin/pulp_usecase_gen' is up to date.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-configs'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-tools'
+make: Nothing to be done for 'header'.
+make -C regmap build
+make[1]: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-tools/regmap'
+make[1]: Nothing to be done for 'build'.
+make[1]: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-tools/regmap'
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-tools'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/archi'
+scons
+scons: Reading SConscript files ...
+scons: done reading SConscript files.
+scons: Building targets ...
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/pulp_defs.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/pulp_defs.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/utils.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/utils.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/gvsoc/gvsoc.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/gvsoc/gvsoc.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/chips/stellissimo/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/chips/stellissimo/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/chips/stellissimo/memory_map.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/chips/stellissimo/memory_map.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/chips/stellissimo/properties.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/chips/stellissimo/properties.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/chips/stellissimo/apb_soc.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/chips/stellissimo/apb_soc.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/riscv/priv_1_10.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/riscv/priv_1_10.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/riscv/builtins_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/riscv/builtins_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/riscv/builtins_v2_emu.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/riscv/builtins_v2_emu.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/riscv/pcer_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/riscv/pcer_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/fll/fll_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/fll/fll_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/stdout/stdout_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/stdout/stdout_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/timer/timer_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/timer/timer_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/hwme/hwme_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/hwme/hwme_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/soc_eu/soc_eu_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/soc_eu/soc_eu_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/udma/udma_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/udma/udma_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/udma/i2c/udma_i2c_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/udma/i2c/udma_i2c_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/udma/spim/udma_spim_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/udma/spim/udma_spim_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/udma/uart/udma_uart_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/udma/uart/udma_uart_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/itc/itc_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/itc/itc_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/gpio/gpio_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/gpio/gpio_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/ws/include/archi/chips/stellissimo/apb_soc_ctrl.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/archi/chips/stellissimo/apb_soc_ctrl.h' is up to date.
+scons: done building targets.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/archi'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-debug-bridge'
+make: Nothing to be done for 'all'.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-debug-bridge'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/hal'
+scons
+scons: Reading SConscript files ...
+Jo is stellissimo
+scons: done reading SConscript files.
+scons: Building targets ...
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/utils.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/pulp_io.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/debug_bridge/debug_bridge.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/gvsoc/gvsoc.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/tb/tb.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/chips/stellissimo/pulp.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/riscv/riscv_v5.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/riscv/types.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/rom/rom_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/fll/fll_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/apb_soc/apb_soc_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/timer/timer_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/hwme/hwme_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/soc_eu/soc_eu_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/udma/udma_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/udma/i2c/udma_i2c_v2.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/udma/spim/udma_spim_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/udma/uart/udma_uart_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/itc/itc_v1.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/gpio/gpio_v3.h' is up to date.
+scons: `/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/hal/pwm/pwm_v1.h' is up to date.
+scons: done building targets.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/hal'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-rules'
+make: Nothing to be done for 'all'.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-rules'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pmsis_api'
+make: Nothing to be done for 'build'.
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pmsis_api'
+make: Entering directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-rt'
+make: Nothing to be done for 'header'.
+/opt/riscv/bin/riscv32-unknown-elf-gcc  -march=rv32imfcxpulpv2 -mfdiv -D__riscv__ -I/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-rt/kernel -D__RT_USE_IO=1 -D__RT_USE_ASSERT=1 -Os -g -fno-jump-tables -Werror -Wextra -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-unused-function -Wundef -fno-tree-loop-distribute-patterns -D__RT_USE_BRIDGE=1 -D__RT_USE_WARNING=1 -DCONFIG_CHECK_CLUSTER_START=1 -DCONFIG_PADS_ENABLED=1 -D__RT_UDMA_COPY_ASM=1 -D__RT_I2C_COPY_ASM=1 -D__RT_SPIM_COPY_ASM=1  -DRT_CONFIG_RTC_ENABLED -DRT_CONFIG_GPIO_ENABLED -fdata-sections -ffunction-sections -I/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include/io -I/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/install/include -include /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/pulp-rt/stellissimo/fc_config.h    -MMD -MP -c kernel/init.c -o /media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/pulp-rt/stellissimo/rt/fc/kernel/init.o
+/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/pulp-rt/stellissimo/__rules.mk:58: recipe for target '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/build/pulp-rt/stellissimo/rt/fc/kernel/init.o' failed
+make: Leaving directory '/media/max/Daten/Dokumente/Uni/Masterarbeit/Workspace/pulp-builder/pulp-rt'
