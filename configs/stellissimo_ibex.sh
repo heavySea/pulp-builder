@@ -1,0 +1,1 @@
+export PULP_CURRENT_CONFIG=pulpissimo_ibex@config_file=chips/stellissimo/stellissimo_ibex.json
